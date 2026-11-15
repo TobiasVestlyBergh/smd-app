@@ -1,11 +1,12 @@
 # smd-app
 
-Personal finance ledger: balances and spending from a CSV file.
+Personal finance ledger: balances, spending and monthly reports from a CSV file.
 
-## Run it
+## Roadmap
 
-    uv run ledger balance
-    uv run ledger spending
+- Monthly report of income and spending
+- A database instead of a CSV file
+- A web API and a dashboard
 
 ## Author
 
